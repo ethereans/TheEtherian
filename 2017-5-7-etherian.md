@@ -45,7 +45,18 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 
 ---
 ##### [Digix](https://digix.io/) – Asset (Gold) Backed Tokens[![Join the chat at https://dgx-public.slack.com/signup](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://dgx-public.slack.com/signup)
-
+- Blog Post: [Dev Update May 1st 2017](https://medium.com/@Digix/dev-update-may-1st-2017-9f666158ccfb)
+- Announcement: [HitBTC adds DGDs](https://medium.com/@Digix/announcement-hitbtc-adds-dgds-cb5437551a8f)
+- Blog Post: [Digix Dev Update — May 7th 2017](https://medium.com/@Digix/digix-dev-update-may-7th-2017-b3f94e3f9c3f)
+- Re: Marketing via the TokenCard ICO
+  >KC Chng: "Henry. To be fair, this is a decision not made, nor decided by us, nor did we wake up one day deciding this was for marketing. If a group of users decided to run an Ico with dgds for example, then we are glad if they told us and we will do our best to let others know. Thanks"
+- Some good advice courtesy of Tayvano from MEW on the best course of action if you are a victim of scamming/phishing:
+  > Tayvano: "Definitely comment on all the explorers and reach out to exchanges if it ends up there. It's unlikely you'll get your money back but it doesn't hurt. The circle of scammers \phishers is surprisingly small and tend to reuse addresses. You never know when your piece of info helps connect the dots to someone who is mapping it in the future."
+- **Development of the Digix Core Contracts (2.0) is complete and ready for Kovan deployment!**
+- Important note on DGD rewards: 
+  > KC Chng: "There are no dividends in the sense of a passive stream of income. Once governance is out, dgd holders will need to vet and approve / reject proposals before they can claim their rewards for their work done. The rewards come from the dgx token protocol, which sends 0.13% of txn fees and 0.2%pa of the demurrage fees to DigixDao."
+- 100% of DGX transaction fees go to DGD. *Demurrage distribution, on the other hand, is .2 to DGD and .4 to the Pte Ltd (to cover storage/auditing costs).*
+- Currently Spectrum only supports Legder Nano.
 ---
 ##### [Ethereum Name Service](https://ens.codetract.io) - Decentralized Name Service
 
