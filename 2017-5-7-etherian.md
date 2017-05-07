@@ -87,7 +87,10 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 
 ---
 ##### [MakerDAO](http://makerdao.com/) - Stable Token and Decentralized Marketplace
-[![Join the chat at https://chat.makerdao.com/channel/general](https://theetherian.files.wordpress.com/2017/03/chat-icon.png?ssl=1&w=50)](https://chat.makerdao.com/channel/general)  
+[![Join the chat at https://chat.makerdao.com/channel/general](https://theetherian.files.wordpress.com/2017/03/chat-icon.png?ssl=1&w=50)](https://chat.makerdao.com/channel/general)
+
+---
+##### [Matchpool](http://matchpool.co/) – Decentralized Matchmaking[![Join the chat at https://matchpool.slack.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://matchpool.slack.com/)
 
 ---  
 ##### [MelonPort](https://melonport.com/) – “Blockchain Software for Asset Management”[![Join the chat at http://chat.melonport.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](http://chat.melonport.com/)  
@@ -113,8 +116,6 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 ---
 ##### [WeTrust](https://www.wetrust.io/) – Trusted Lending Circles[![Join the chat at https://www.wetrust.io/#home-section-slack](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://www.wetrust.io/#home-section-slack)
 
----
-##### [Matchpool](http://matchpool.co/) – Decentralized Matchmaking[![Join the chat at https://matchpool.slack.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://matchpool.slack.com/)
 ---
 Shout-outs:
 - Big thanks to Evan Van Ness for featuring us in his weekly post, please give him a subscription to his weekly email newsletter. His weekly post is the most in-depth and informative look into the ethereum ecosystem you’re going to get. Here’s a link to his site: http://www.weekinethereum.com/
