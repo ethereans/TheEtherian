@@ -31,7 +31,12 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 ---  
 ##### [Casper](https://blog.ethereum.org/2015/08/01/introducing-casper-friendly-ghost/) (Dev Channel) – Proof of Stake Protocol  
 [![Join the chat at https://gitter.im/ethereum/casper-scaling-and-protocol-economics](https://badges.gitter.im/ethereum/casper-scaling-and-protocol-economics.svg)](https://gitter.im/ethereum/casper-scaling-and-protocol-economics?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
-
+- Section 2.2.3 of [this paper](https://arxiv.org/abs/1406.5694) was suggested as a reference for researching bribe attack security (by @iddo333)
+- Iddo and Loi will be actively working on a solution to avoid exit-scam risk after Metropolis. (That or a proof-of-steak pun, it was unclear but I'm assuming it's not the pun).
+- Currently the first validator sets the current epoch and increments the dynasty, in the future this should be hard-forked in as part of block initialization.
+- The question of forming a cartel by kicking off inactive participants has been getting thrown around for a while. Both Vitalik and Vlad have suggested increasing the cost of absenteeism to solve this but differ on the numbers, Vitalik suggested 20% while Vlad suggested 50%.
+- [List of Ethereum research topics](https://hackmd.io/MwJgJmDswIxgtMApgIwKzwCxoBzHjgMYo7wCcSmSIOKJkAhgAxA=?both) to show potential collaborators, from Virgil Griffith.
+- Vitalik says [this](https://github.com/ethereum/casper) is the only repo that matters now, no need to pay attention to older ones.
 ---
 ##### [ChronoBank](http://chronobank.io/) – Labour Hour Stable Coins[![Join the chat at https://chronobank.herokuapp.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://chronobank.herokuapp.com/)
 
