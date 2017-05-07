@@ -39,7 +39,10 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 - Vitalik says [this](https://github.com/ethereum/casper) is the only repo that matters now, no need to pay attention to older ones.
 ---
 ##### [ChronoBank](http://chronobank.io/) – Labour Hour Stable Coins[![Join the chat at https://chronobank.herokuapp.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://chronobank.herokuapp.com/)
-
+- News: [HitBTC Launches TIME token trading](https://blog.chronobank.io/hitbtc-to-launch-time-token-trading-ba58f1b03bb8)
+- Blog: [ChronoBank Development Update #8](https://blog.chronobank.io/chronobank-dev-update-8-55c9fc203a9f)
+- News: [ChronoBank starts issuing Labour Hour tokens(https://blog.chronobank.io/chronobank-starts-issuing-labour-hour-tokens-19311d03737b)
+- [ChronoWallet Dapp gets a facelift](https://twitter.com/ChronobankNews/status/860689595750645760)
 ---
 ##### [Colony](http://colony.io/) – Decentralized Collaboration Network[![Join the chat at https://colonyslack.herokuapp.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://colonyslack.herokuapp.com/)
 
@@ -65,7 +68,8 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 
 ---
 ##### [Ethlance](http://ethlance.com/) – Decentralized freelancing platform with 0% fee[![Join the chat at https://ethlance.slack.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://ethlance.slack.com/)  
-
+- New feature: "Invitation Only" jobs, not displayed in search.
+- Cryptoverse: [Ethlance Brings 'Free' Back To 'Freelance' Interview With Matus Lestan](https://youtu.be/aZDagfd6uqI)(video)
 ---
 ##### [FirstBlood](https://firstblood.io/) – Decentralized E-Sports Rewards Platform[![Join the chat at https://firstbloodio.slack.com/signup](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://firstbloodio.slack.com/signup)
 - We should be getting a dev update soon.
@@ -76,8 +80,8 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 
 ---
 ##### [Gnosis](https://gnosis.pm/) - Prediction Market[![Join the chat at https://slack.gnosis.pm/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://slack.gnosis.pm/)  
-
-
+- News: [GNO on Jaxx.io wallet](https://twitter.com/jaxx_io/status/859187825534799874)
+- News: Now you can buy GNO through [Shapeshift](https://twitter.com/ShapeShift_io/status/859500241590116352) and [Changelly](https://twitter.com/Changelly_team/status/859826830462918667) too!
 ---  
 ##### [Golem](https://golem.network/) – Distributed Computing Power[![Join the chat at http://golemproject.org:3000/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](http://golemproject.org:3000/)  
 
@@ -91,7 +95,7 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 
 ---
 ##### [Matchpool](http://matchpool.co/) – Decentralized Matchmaking[![Join the chat at https://matchpool.slack.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://matchpool.slack.com/)
-
+- Blog: [Bridging the GUP for Mass Market Adoption between Digital & FIAT Currencies](https://medium.com/matchpool/bridging-the-gup-for-mass-market-adoption-between-digital-fiat-currencies-1ef18f6f4e6e)
 ---  
 ##### [MelonPort](https://melonport.com/) – “Blockchain Software for Asset Management”[![Join the chat at http://chat.melonport.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](http://chat.melonport.com/)  
 
@@ -104,7 +108,9 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 
 ---
 ##### [SingularDTV](https://singulardtv.com/) – Rights Management and Video On-Demand Portal[![Join the chat at https://singulardtv.slack.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://singulardtv.slack.com/)  
-
+- Blog: [SingularDTV: Unveiling Our 11 Module Entertainment Ecosystem](https://medium.com/@SingularDTV/singulardtv-unveiling-our-11-module-entertainment-ecosystem-2bd64802e7b1)
+- Blog: [BITTREX 2.0, SingularDTV and $100 ETH](https://medium.com/@SingularDTV/bitrex-2-0-singulardtv-and-100-eth-d5b852ddcd9d)
+- [Bittrex & Their Commitment To Security - Celebrating ETH/SNGLS on Bittrex](https://www.youtube.com/watch?v=n51os7oN8AM&feature=youtu.be)(video)
 ---
 ##### [UjoMusic](https://ujomusic.com/) - Decentralized Music Platform
 [![Follow UjoMusic's blog at https://blog.ujomusic.com/](https://i2.wp.com/theetherian.files.wordpress.com/2017/03/ujo-music-logo.jpeg?ssl=1&w=50)](https://blog.ujomusic.com/)
@@ -116,7 +122,7 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 - >Christian Lundkvist: "Yes it's possible to store ether and/or ERC20 tokens in the uPort identity (proxy) smart contract. This is exactly what happens when you use Gnosis with uport and will allow you to recover your tokens along with your identity."
 ---
 ##### [WeTrust](https://www.wetrust.io/) – Trusted Lending Circles[![Join the chat at https://www.wetrust.io/#home-section-slack](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://www.wetrust.io/#home-section-slack)
-
+- Tom from WeTrust at the [Blockchain Center Meetup in Melbourne](https://twitter.com/Think_Bitcoin/status/859320677265952768/photo/1)
 ---
 Shout-outs:
 - Big thanks to Evan Van Ness for featuring us in his weekly post, please give him a subscription to his weekly email newsletter. His weekly post is the most in-depth and informative look into the ethereum ecosystem you’re going to get. Here’s a link to his site: http://www.weekinethereum.com/
