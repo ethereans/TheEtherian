@@ -112,7 +112,8 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 ---  
 ##### [uPort](https://www.uport.me/) – Self-Sovereign Identity
 [![Join the chat at https://gitter.im/uport-project/Lobby](https://badges.gitter.im/uport-project/Lobby.svg)](https://gitter.im/uport-project/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
-
+- Some devs are running into problems on the iOS version that they are not having in the Android version. This problem seems to be stemming from converting the MNID to an ethereum address. Try using [this library](https://github.com/uport-project/mnid) if you're having this problem. (Thanks to Michael Shihjay Chen, MD for bringing up the issue).
+- >Christian Lundkvist: "Yes it's possible to store ether and/or ERC20 tokens in the uPort identity (proxy) smart contract. This is exactly what happens when you use Gnosis with uport and will allow you to recover your tokens along with your identity."
 ---
 ##### [WeTrust](https://www.wetrust.io/) – Trusted Lending Circles[![Join the chat at https://www.wetrust.io/#home-section-slack](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://www.wetrust.io/#home-section-slack)
 
