@@ -68,7 +68,9 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 
 ---
 ##### [FirstBlood](https://firstblood.io/) – Decentralized E-Sports Rewards Platform[![Join the chat at https://firstbloodio.slack.com/signup](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://firstbloodio.slack.com/signup)
-
+- We should be getting a dev update soon.
+- On other methods of payment in FirstBlood:
+  >Marco Cuesta: "Hi vol_har ! You will  be able to use other methods of payment to risk on a match in the future. If you would like to organize tournaments, run witness nodes, be a juror, or receive referral rewards you will need to be a 1ST holder. 1ST is a utility token that you need to interact with many of the features on our platform. Opening up other methods of payment for gamers will be an even larger benefit for 1ST holders because there will be more matches on our system."
 ---
 ##### [Giveth](http://www.giveth.io/) - Crowd Funded Donation Dapp[![Join the chat at http://slack.giveth.io/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://slack.giveth.io/)|[![Check out the github at https://github.com/Giveth](https://a248.e.akamai.net/assets.github.com/images/icons/emoji/octocat.png)](https://github.com/Giveth)
 
