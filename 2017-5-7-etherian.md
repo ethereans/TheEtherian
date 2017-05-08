@@ -20,7 +20,9 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 
 
 ##### [AKASHA](http://akasha.world/) – Social Media Network[![Join the chat at https://akasha-slack.herokuapp.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://akasha-slack.herokuapp.com/)
-
+- Celebrating first year of “public experiments”.
+- Blog: [An Odyssey of Discovery](https://blog.akasha.world/2017/05/03/akasha-odyssey-year-one/).
+- [Video](https://www.youtube.com/watch?v=jMiNP9LZNk8) of Ethereum Zug Meetup May 1st
 ---
 ##### [Augur](https://augur.net/) – Prediction Market[![Join the chat at http://invite.augur.net/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](http://invite.augur.net/)
 - Blog: [AUGUR DEVELOPMENT UPDATE – MAY 3RD] (http://blog.augur.net/augur-development-update-may-3rd/).
