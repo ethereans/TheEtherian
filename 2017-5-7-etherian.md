@@ -98,7 +98,7 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 - Blog: [Bridging the GUP for Mass Market Adoption between Digital & FIAT Currencies](https://medium.com/matchpool/bridging-the-gup-for-mass-market-adoption-between-digital-fiat-currencies-1ef18f6f4e6e)
 ---  
 ##### [MelonPort](https://melonport.com/) – “Blockchain Software for Asset Management”[![Join the chat at http://chat.melonport.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](http://chat.melonport.com/)  
-
+- [News letter](http://mailchi.mp/af484a113811/melonport-april-update), all the news stuff in one place.
 ---
 ##### [Status](http://status.im/) – Mobile Ethereum OS[![Join the chat at http://slack.status.im/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](http://slack.status.im/)  
 
