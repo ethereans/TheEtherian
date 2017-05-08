@@ -23,7 +23,9 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 
 ---
 ##### [Augur](https://augur.net/) – Prediction Market[![Join the chat at http://invite.augur.net/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](http://invite.augur.net/)
-
+- Blog: [AUGUR DEVELOPMENT UPDATE – MAY 3RD] (http://blog.augur.net/augur-development-update-may-3rd/).
+- > Micah: “While releasing prematurely in traditional development world has a worst-case scenario of some bad press, doing the same in financials results in bankruptcy (and an angry mob)”.
+- > Joey Krug: “We've been aiming for late summer to release the live bounty market”.
 ---
 ##### [BasicAttentionToken](https://basicattentiontoken.org/) - Blockchain Based Digital Advertising
 [![Join the chat at http://slack.basicattentiontoken.org/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](http://slack.basicattentiontoken.org/)
