@@ -31,6 +31,10 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 ---
 ##### [BasicAttentionToken](https://basicattentiontoken.org/) - Blockchain Based Digital Advertising
 [![Join the chat at http://slack.basicattentiontoken.org/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](http://slack.basicattentiontoken.org/)
+- [Latest Update](https://medium.com/@AttentionToken/driving-user-adoption-and-extending-the-bat-platform-92afec43e3f0)
+- "Telegram bot: In messaging apps like Telegram, we foresee the possibility of users being paid in BAT to view one ad.
+ WeChat official account: WeChat has become a robust system of bots, payments, and other solutions. We foresee the creation of different      WeChat solutions integrating the BAT.
+ Token and Status: The BAT also has attention-based applicability inside the Ethereum-based messaging/payment platforms such as Coinbase’s   new Token app and Status app."
 
 ---  
 ##### [Casper](https://blog.ethereum.org/2015/08/01/introducing-casper-friendly-ghost/) (Dev Channel) – Proof of Stake Protocol  
