@@ -62,7 +62,8 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 - Currently Spectrum only supports Legder Nano.
 ---
 ##### [Ethereum Name Service](https://ens.codetract.io) - Decentralized Name Service
-
+- ENS is Live! Register a name [Here](https://registrar.ens.domains) or also MEW hosts a way to register ENS names located [here](https://www.myetherwallet.com/#ens)
+- ENS bot is also live tweeting names of auctions starting [live](https://twitter.com/EnsBot)
 ---
 ##### [Etherplay](http://etherplay.io) – The Transparent Skill Game Platform[![Join the chat at http://slack.etherplay.io](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](http://slack.etherplay.io)
 
