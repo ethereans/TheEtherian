@@ -84,8 +84,10 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 - News: Now you can buy GNO through [Shapeshift](https://twitter.com/ShapeShift_io/status/859500241590116352) and [Changelly](https://twitter.com/Changelly_team/status/859826830462918667) too!
 ---  
 ##### [Golem](https://golem.network/) – Distributed Computing Power[![Join the chat at http://golemproject.org:3000/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](http://golemproject.org:3000/)  
-
-
+- [Proposal: Q&A site for users and developers of the Golem](https://area51.stackexchange.com/proposals/109578/golem?referrer=5kJRPyyv24Ffv5ulj_ITfw2).  
+- Unofficial Golem Classroom Blender [Demo](http://golem.timjones.id.au/).
+- Golem is ranked number 1 for assets on [coinmarketcap](https://coinmarketcap.com/assets/).
+- Jaxx wallet adds support for GNT & GNO 
 ---
 ##### [ICONOMI](https://iconomi.net/) – Digital Asset Management Platform[![Join the chat at https://iconominet.herokuapp.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://iconominet.herokuapp.com/) 
 
