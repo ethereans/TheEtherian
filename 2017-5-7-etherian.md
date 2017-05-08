@@ -88,7 +88,11 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 
 ---
 ##### [ICONOMI](https://iconomi.net/) – Digital Asset Management Platform[![Join the chat at https://iconominet.herokuapp.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://iconominet.herokuapp.com/) 
-
+- [Iconomi AMA](https://www.reddit.com/r/ICONOMI/comments/697cbr/iconomi_ama_may_2017/), worth reading!
+- Iconomi will sponsor the [token summit](https://twitter.com/NTmoney/status/860492767037857793). 
+- Jaxx adds support for ICN
+- Overview of the updates in the finical report – [link](https://www.reddit.com/r/ICONOMI/comments/6936wy/new_update_from_iconomi/).
+- > Yan: “Iconomi gets 10% of [cofound.it](http://cofound.it/) tokens”.
 ---
 ##### [MakerDAO](http://makerdao.com/) - Stable Token and Decentralized Marketplace
 [![Join the chat at https://chat.makerdao.com/channel/general](https://theetherian.files.wordpress.com/2017/03/chat-icon.png?ssl=1&w=50)](https://chat.makerdao.com/channel/general)
