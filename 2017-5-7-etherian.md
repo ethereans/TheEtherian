@@ -53,7 +53,9 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 - [ChronoWallet Dapp gets a facelift](https://twitter.com/ChronobankNews/status/860689595750645760)
 ---
 ##### [Colony](http://colony.io/) – Decentralized Collaboration Network[![Join the chat at https://colonyslack.herokuapp.com/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://colonyslack.herokuapp.com/)
-
+- The whitepaper is receiving its final touchup before review by a curated list of reviewers.
+- The [ribbonfarm](https://www.ribbonfarm.com/2017/04/25/one-weird-longform-trick-on-the-blockchain/) Colony is currently the most active of the ~25 user-created Colonies.
+- Team is working closely with those Colonies to implement Feature Requests and fix bugs
 ---
 ##### [Digix](https://digix.io/) – Asset (Gold) Backed Tokens[![Join the chat at https://dgx-public.slack.com/signup](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](https://dgx-public.slack.com/signup)
 - Blog Post: [Dev Update May 1st 2017](https://medium.com/@Digix/dev-update-may-1st-2017-9f666158ccfb)
@@ -116,7 +118,11 @@ Feel free to add spaces between the daps if needed if you're like me don’t lik
 - [News letter](http://mailchi.mp/af484a113811/melonport-april-update), all the news stuff in one place.
 ---
 ##### [Status](http://status.im/) – Mobile Ethereum OS[![Join the chat at http://slack.status.im/](https://i1.wp.com/theetherian.files.wordpress.com/2017/03/slack_mark_web.png?ssl=1&w=50)](http://slack.status.im/)  
-
+- [Ethereum DApp Creators // Issue #09 Maker](https://blog.status.im/ethereum-dapp-creators-issue-09-maker-552080f81072)
+- Status Team will be at [Ethereum Meetup in Seoul](https://www.meetup.com/Seoul-Ethereum-Meetup/events/239386750/) on May 10
+- Jarrad Hope and Carl Bennetts on [Epicenter Podcast](https://www.youtube.com/watch?v=kMVHp6zmaJY)
+- Video of [Ethereum Zug Meetup](https://www.youtube.com/watch?v=jMiNP9LZNk8) with Akasha, Aragon, and Status
+- [Ethereum DApp Creators // #10 Plutus](https://blog.status.im/ethereum-dapp-creators-10-plutus-2c08689afdcc)
 ---
 ##### [Swarm](http://swarm-gateways.net/bzz:/theswarm.eth/) – Serverless Hosting, Incentivised P2P Storage/Content Distribution
 [![Join the chat at https://gitter.im/ethereum/swarm](https://badges.gitter.im/ethereum/swarm.svg)](https://gitter.im/ethereum/swarm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
