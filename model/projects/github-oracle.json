@@ -1,0 +1,9 @@
+{ 
+    "id": "github-oracle",
+    "name": "GitHub Oracle",
+    "links": [ 
+        {"type": "github", "url": "https://github.com/status-im/github-oracle/" },
+        {"type": "slack", "url": "https://slack.status.im/" }
+        ],
+    "description": "Tokenize git repositories hosted in GitHub by computation queries to GitHubAPI."
+}

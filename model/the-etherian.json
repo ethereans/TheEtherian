@@ -1,0 +1,8 @@
+{ 
+    "news": "news/",
+    "projects": "projects/",
+    "authors": "authors/",
+    "views": [
+        {"collections":"news,projects", "indexes":"year,project", "path": "views/news-projects/" }
+    ]
+}

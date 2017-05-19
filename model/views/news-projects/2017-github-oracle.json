@@ -1,0 +1,8 @@
+{
+    "project": "github-oracle",
+    "year": 2017,
+    "news": [
+        {"author": "3esmit", "timestamp": 1495059429, "comments": "Test GitHubOracle Repository Registry deployed on Rinkeby", "url": "https://rinkeby.etherscan.io/address/0x1d1b001b76128c3f171d89d73771a90e4fbdf3b5", "tags": "smart contracts, oraclize"},
+        {"author": "3esmit", "timestamp": 1495059429, "comments": "Test GitHubOracle Name Registry deployed on Rinkeby", "url": "https://rinkeby.etherscan.io/address/0x74419ce7bb8d9a09faa5ce27930b4482dd59568b", "tags": "smart contracts, oraclize, name registry"}
+    ]
+}

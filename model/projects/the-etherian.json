@@ -1,0 +1,9 @@
+{ 
+    "id": "the-etherian",
+    "name": "The Etherian",
+    "links": [ 
+        {"type": "github", "url": "https://github.com/etherans/TheEtherian/" },
+        {"type": "slack", "url": "https://the-etherian.slack.com/" }
+        ],
+    "description": "Descentralized Tokenized News about Ethereum."
+}
