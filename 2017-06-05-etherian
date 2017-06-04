@@ -23,7 +23,8 @@
 - >Vitalik Buterin: "Update from my side. I realized that it's actually technologically not hard to waive all non-commit penalties in the case where there are less than 2/3 prepares. I updated the algorithm to do this, and I got griefing factor minimizing results that didn't have as ridiculously high a ratio of non-prepare penalties to non-commit penalties. Also, I discovered a class of parameter sets where I can cut the griefing factor for <50% coalitions to as low as 1/2. Basically, the non-finality penalty itself needs to be zero. Then, set NCP = NCCP = NPP = NP. (For the uninitiated, NCP = non commit penalty, NCCP = non commit collective penalty, NP*P the same for prepares).
 ---
 ##### [ChronoBank](http://chronobank.io/) – Labour Hour Stable Coins
-
+- News: [ChronoBank Introduces Decentralised Exchange for ChronoMint](https://medium.com/@Chronobank/chronobank-introduces-decentralised-exchange-for-chronomint-f81c32a08e0c)
+- Blog: [Redundancy is good: a lesson from Tether](https://medium.com/@Chronobank/redundancy-is-good-a-lesson-from-tether-1fd8e604cded)
 
 ---
 ##### [Colony](http://colony.io/) – Decentralized Collaboration Network
