@@ -5,7 +5,6 @@
 ---
 ##### [Aragon](http://aragon.one/) – DAO Management
 
-
 ---
 ##### [Augur](https://augur.net/) – Prediction Market
 
@@ -16,8 +15,12 @@
 
 ---  
 ##### [Casper](https://blog.ethereum.org/2015/08/01/introducing-casper-friendly-ghost/) (Dev Channel) – Proof of Stake Protocol
-
-
+- More information added to [Casper The Friendly Finality Gadget](http://vitalik.ca/files/casper_note.html)
+- [Casper Research 06 (Video)](https://www.youtube.com/watch?v=vAolH_3kh3Y)
+- Most discussion this week was about penalizing transaction censorship and how to achieve this. 
+- Vlad made a comment that I thought was an interesting insight--apparently in his research and modeling he treats stakers as the *adversary* and the users as the ones who must ultimately be served.
+- >Vlad Zamfir: "So from the PoV of mechanism design imo the goal should be to show (under the assumption that token prices are fixed) that every protocol guarantee is stable under the following equilibrium notion:. Every coalition of every size has no incentive to deviate from following the protocol given any possible strategy profile known to be taken by players outside of the coalition."
+- >Vitalik Buterin: "Update from my side. I realized that it's actually technologically not hard to waive all non-commit penalties in the case where there are less than 2/3 prepares. I updated the algorithm to do this, and I got griefing factor minimizing results that didn't have as ridiculously high a ratio of non-prepare penalties to non-commit penalties. Also, I discovered a class of parameter sets where I can cut the griefing factor for <50% coalitions to as low as 1/2. Basically, the non-finality penalty itself needs to be zero. Then, set NCP = NCCP = NPP = NP. (For the uninitiated, NCP = non commit penalty, NCCP = non commit collective penalty, NP*P the same for prepares).
 ---
 ##### [ChronoBank](http://chronobank.io/) – Labour Hour Stable Coins
 
