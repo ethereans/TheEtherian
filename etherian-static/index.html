@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>The Etherian</title>
+
+    <!-- Google Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|PT+Serif:400,700' rel='stylesheet' type='text/css'>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <!-- Preloader -->
+
+    <div id="preloader">
+      <div class="cssload-thecube">
+        <div class="cssload-cube cssload-c1"></div>
+        <div class="cssload-cube cssload-c2"></div>
+        <div class="cssload-cube cssload-c4"></div>
+        <div class="cssload-cube cssload-c3"></div>
+      </div>
+    </div>
+
+    <div class="search-bar">
+      <i class="fa fa-search"></i>&nbsp;
+      <input type="text" name="s" placeholder="Search for a Ðapp..." />
+      <div class="sort-cover">
+        SORT&nbsp;&nbsp;<i class="fa fa-caret-down"></i>
+      </div>
+      <select name="sort" id="sortDapps">
+        <option value="" disabled selected>SORT</option>
+        <option value="name" data-asc="true">A - Z</option>
+        <option value="name" data-asc="false">Z - A</option>
+        <option value="date" data-asc="true">Most Recent</option>
+        <option value="date" data-asc="false">Least Recent</option>
+      </select>
+    </div>
+
+    <nav id="mobileNavMenu" class="nav-bar-mobile">
+      <ul id="navMenu" class="nav-menu">
+        <li class="current"><a href="./index.html">Home</a></li>
+        <li><a href="./posts.html">Posts</a></li>
+        <li><a href="./about.html">About</a></li>
+        <li><a href="./contact.html">Contact</a></li>
+      </ul>
+
+      <div class="nav-footer">
+        © the etherian <script>document.write(new Date().getFullYear())</script>
+      </div>
+    </nav>
+
+    <div class="container-fluid container-body">
+      <div class="row">
+        <nav class="col-sm-2 nav-bar">
+          <ul id="navMenu" class="nav-menu">
+            <li>
+              <a href="./index.html"><img src="./images/logo.svg" alt="The Etherian Logo"></a>
+              <a href="#" id="openMenu" class="open-nav-menu"><i class="fa fa-bars"></i></a>
+            </li>
+            <li class="current"><a href="./index.html">Home</a></li>
+            <li><a href="./posts.html">Posts</a></li>
+            <li><a href="./about.html">About</a></li>
+            <li><a href="./contact.html">Contact</a></li>
+          </ul>
+
+          <div class="nav-footer">
+            © the etherian <script>document.write(new Date().getFullYear())</script>
+          </div>
+        </nav>
+      </div>
+
+      <div class="row row-dapp">
+        <div class="col-sm-10 col-sm-push-2 col-body">
+          <div id="dappGrid" class="row">
+            <div class="col-sm-6 col-lg-4">
+              <a href="./single-dapp.html"><div class="panel panel-dapp">
+                <div class="panel-heading">
+                  <img class="panel-logo" src="./images/logos/colony.png" alt="Colony.io Logo" />
+
+                  <h3 class="panel-title">
+                    <span class="dapp-name">Colony.io</span>
+                    <small>Decentralized Collaboration Network</small>
+                  </h3>
+
+                  <a href="./single-dapp.html" class="btn btn-purple">The Latest News</a>
+                </div>
+
+                <div class="panel-body">
+                  <ul class="title-links">
+										<li><a href="#" target="_blank"><i class="fa fa-desktop"></i>&nbsp;&nbsp;Website</a></li>
+										<li><a href="#" target="_blank"><i class="fa fa-slack"></i>&nbsp;&nbsp;Slack</a></li>
+										<li><a href="#" target="_blank"><i class="fa fa-twitter"></i>&nbsp;&nbsp;Twitter</a></li>
+                  </ul>
+                </div>
+              </div></a>
+            </div>
+
+            <div class="col-sm-6 col-lg-4">
+              <a href="./single-dapp.html"><div class="panel panel-dapp">
+                <div class="panel-heading">
+                  <img class="panel-logo" src="./images/logos/augur.png" alt="Augur Logo" />
+
+                  <h3 class="panel-title">
+                    <span class="dapp-name">Augur</span>
+                    <small>Prediction Market</small>
+                  </h3>
+
+                  <a href="./single-dapp.html" class="btn btn-purple">The Latest News</a>
+                </div>
+
+                <div class="panel-body">
+                  <div class="ico-indicator">
+                    <i class="fa fa-dot-circle-o"></i>&nbsp;&nbsp;ICO IN PROGRESS
+                  </div>
+
+                  <ul class="title-links">
+										<li><a href="#" target="_blank"><i class="fa fa-desktop"></i>&nbsp;&nbsp;Website</a></li>
+										<li><a href="#" target="_blank"><i class="fa fa-slack"></i>&nbsp;&nbsp;Slack</a></li>
+										<li><a href="#" target="_blank"><i class="fa fa-twitter"></i>&nbsp;&nbsp;Twitter</a></li>
+                  </ul>
+                </div>
+              </div></a>
+            </div>
+
+            <div class="col-sm-6 col-lg-4">
+              <a href="./single-dapp.html"><div class="panel panel-dapp">
+                <div class="panel-heading">
+                  <img class="panel-logo" src="./images/logos/akasha.png" alt="Akasha Logo" />
+
+                  <h3 class="panel-title">
+                    <span class="dapp-name">Akasha</span>
+                    <small>Social Media Network</small>
+                  </h3>
+
+                  <a href="./single-dapp.html" class="btn btn-purple">The Latest News</a>
+                </div>
+
+                <div class="panel-body">
+                  <ul class="title-links">
+										<li><a href="#" target="_blank"><i class="fa fa-desktop"></i>&nbsp;&nbsp;Website</a></li>
+										<li><a href="#" target="_blank"><i class="fa fa-slack"></i>&nbsp;&nbsp;Slack</a></li>
+										<li><a href="#" target="_blank"><i class="fa fa-twitter"></i>&nbsp;&nbsp;Twitter</a></li>
+                  </ul>
+                </div>
+              </div></a>
+            </div>
+
+            <div class="col-sm-6 col-lg-4">
+              <a href="./single-dapp.html"><div class="panel panel-dapp">
+                <div class="panel-heading">
+                  <img class="panel-logo horizontal" src="./images/logos/digix.png" alt="Digix Logo" />
+
+                  <h3 class="panel-title">
+                    <span class="dapp-name">Digix</span>
+                    <small>Asset (Gold) Backed Tokens</small>
+                  </h3>
+
+                  <a href="./single-dapp.html" class="btn btn-purple">The Latest News</a>
+                </div>
+
+                <div class="panel-body">
+                  <ul class="title-links">
+										<li><a href="#" target="_blank"><i class="fa fa-desktop"></i>&nbsp;&nbsp;Website</a></li>
+										<li><a href="#" target="_blank"><i class="fa fa-slack"></i>&nbsp;&nbsp;Slack</a></li>
+										<li><a href="#" target="_blank"><i class="fa fa-twitter"></i>&nbsp;&nbsp;Twitter</a></li>
+                  </ul>
+                </div>
+              </div></a>
+            </div>
+
+            <div class="col-sm-6 col-lg-4">
+              <a href="./single-dapp.html"><div class="panel panel-dapp">
+                <div class="panel-heading">
+                  <img class="panel-logo horizontal" src="./images/logos/chronobank.png" alt="ChronoBank Logo" />
+
+                  <h3 class="panel-title">
+                    <span class="dapp-name">ChronoBank</span>
+                    <small>Labour Hour Stable Coins</small>
+                  </h3>
+
+                  <a href="./single-dapp.html" class="btn btn-purple">The Latest News</a>
+                </div>
+
+                <div class="panel-body">
+                  <ul class="title-links">
+										<li><a href="#" target="_blank"><i class="fa fa-desktop"></i>&nbsp;&nbsp;Website</a></li>
+										<li><a href="#" target="_blank"><i class="fa fa-slack"></i>&nbsp;&nbsp;Slack</a></li>
+										<li><a href="#" target="_blank"><i class="fa fa-twitter"></i>&nbsp;&nbsp;Twitter</a></li>
+                  </ul>
+                </div>
+              </div></a>
+            </div>
+
+            <div class="col-sm-6 col-lg-4">
+              <a href="./single-dapp.html"><div class="panel panel-dapp">
+                <div class="panel-heading">
+                  <img class="panel-logo horizontal" src="./images/logos/gnosis.png" alt="Gnosis Logo" />
+
+                  <h3 class="panel-title">
+                    <span class="dapp-name">Gnosis</span>
+                    <small>Prediction Market</small>
+                  </h3>
+
+                  <a href="./single-dapp.html" class="btn btn-purple">The Latest News</a>
+                </div>
+
+                <div class="panel-body">
+                  <ul class="title-links">
+										<li><a href="#" target="_blank"><i class="fa fa-desktop"></i>&nbsp;&nbsp;Website</a></li>
+										<li><a href="#" target="_blank"><i class="fa fa-slack"></i>&nbsp;&nbsp;Slack</a></li>
+										<li><a href="#" target="_blank"><i class="fa fa-twitter"></i>&nbsp;&nbsp;Twitter</a></li>
+                  </ul>
+                </div>
+              </div></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>-->
+    <script src="js/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/isotope.pkgd.min.js"></script>
+    <script src="js/functions.js"></script>
+    <script src="js/home.js"></script>
+  </body>
+</html>
